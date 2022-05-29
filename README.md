@@ -1,6 +1,6 @@
 # Cache
 
-Implement a simple cache, that holds values with type `string` and allows to retrieve them using keys of time `stings`. Key/value pairs can expire if given a deadline using an appropriate method. 
+Implement a simple cache, that holds values with type `string` and allows to retrieve them using keys of time `strings`. Key/value pairs can expire if given a deadline using an appropriate method. 
 
 The initial structure is given. You should add appropriate fields, implement the constructor function and methods with given signatures. 
 
